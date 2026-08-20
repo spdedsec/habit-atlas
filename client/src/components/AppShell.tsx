@@ -27,7 +27,7 @@ const primaryNav: Array<{ id: View; label: string; icon: typeof Home }> = [
 ];
 
 function BrandMark() {
-  return <img className="brand-mark" src="/manus-storage/habit-atlas-real-logo_a1296151.png" alt="" aria-hidden="true" />;
+  return <img className="brand-mark" src="/habit-atlas-logo.png" alt="" aria-hidden="true" />;
 }
 
 function formatToday() {
